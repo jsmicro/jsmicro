@@ -18,6 +18,7 @@ A wrapper of all JSMicro Modules.
 * [**jsmicro-is-object**](https://github.com/jsmicro/is-object)
 * [**jsmicro-is-regexp**](https://github.com/jsmicro/is-regexp)
 * [**jsmicro-is-string**](https://github.com/jsmicro/is-string)
+* [**jsmicro-typeof**](https://github.com/jsmicro/typeof)
 
 ## Browser Usage
 
