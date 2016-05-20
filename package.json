@@ -1,6 +1,6 @@
 {
     "name": "jsmicro",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Check does the given Javascript Object is a function.",
     "main": "main.js",
     "scripts": {
@@ -23,19 +23,20 @@
         "jsmicro-test": "^1.0.1"
     },
     "dependencies": {
-        "jsmicro-foreach": "^1.0.0",
-        "jsmicro-is-arguments": "^1.0.0",
-        "jsmicro-is-array": "^1.0.0",
-        "jsmicro-is-boolean": "^1.0.0",
-        "jsmicro-is-date": "^1.0.0",
-        "jsmicro-is-defined": "^1.0.0",
-        "jsmicro-is-empty": "^1.0.0",
-        "jsmicro-is-error": "^1.0.0",
-        "jsmicro-is-function": "^1.0.0",
-        "jsmicro-is-null": "^1.0.0",
-        "jsmicro-is-number": "^1.0.0",
-        "jsmicro-is-object": "^1.0.0",
-        "jsmicro-is-regexp": "^1.0.0",
-        "jsmicro-is-string": "^1.0.0"
+        "jsmicro-foreach": "^1.0.1",
+        "jsmicro-is-arguments": "^1.0.1",
+        "jsmicro-is-array": "^1.0.1",
+        "jsmicro-is-boolean": "^1.0.1",
+        "jsmicro-is-date": "^1.0.1",
+        "jsmicro-is-defined": "^1.0.1",
+        "jsmicro-is-empty": "^1.0.1",
+        "jsmicro-is-error": "^1.0.1",
+        "jsmicro-is-function": "^1.0.1",
+        "jsmicro-is-null": "^1.0.1",
+        "jsmicro-is-number": "^1.0.1",
+        "jsmicro-is-object": "^1.0.1",
+        "jsmicro-is-regexp": "^1.0.1",
+        "jsmicro-is-string": "^1.0.1",
+        "jsmicro-typeof": "^1.0.3"
     }
 }

@@ -1,5 +1,6 @@
 {
     "name": "jsmicro",
+    "version": "1.0.1",
     "description": "Check does the given Javascript Object is a function.",
     "authors": [
         "Nanang Mahdaen El Agung <nanang@mahdaen.name> (http://mahdaen.name)"
@@ -33,6 +34,7 @@
         "jsmicro-is-array": "^1.0.0",
         "jsmicro-is-arguments": "^1.0.0",
         "jsmicro-foreach": "^1.0.0",
-        "jsmicro-is-empty": "^1.0.0"
+        "jsmicro-is-empty": "^1.0.0",
+        "jsmicro-typeof": "^1.0.3"
     }
 }
